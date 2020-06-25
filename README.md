@@ -1,6 +1,11 @@
-# IPAD
-Interactive Programmable Arts Display
+# XY V Plotter Polargraph (Project: IPAD)
+Interactive Programmable Arts Display - In partnership with the Ballarat Hackerspace
 
+Team:
+-Franklin Moon
+-Zane Drysdale
+
+This documentation will guide you through the installation of hardware AND software to DIY a Vertical Wall Printer for limitless scale with cheap and available parts.
 
 Getting Started - Testing Hardware,
 
